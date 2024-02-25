@@ -1,0 +1,7 @@
+C:\Users\ddili\source\Abstraction\ATM_Machine\ATM_Machine\bin\Debug\ATM_Machine.exe.config
+C:\Users\ddili\source\Abstraction\ATM_Machine\ATM_Machine\bin\Debug\ATM_Machine.exe
+C:\Users\ddili\source\Abstraction\ATM_Machine\ATM_Machine\bin\Debug\ATM_Machine.pdb
+C:\Users\ddili\source\Abstraction\ATM_Machine\ATM_Machine\obj\Debug\ATM_Machine.csproj.AssemblyReference.cache
+C:\Users\ddili\source\Abstraction\ATM_Machine\ATM_Machine\obj\Debug\ATM_Machine.csproj.CoreCompileInputs.cache
+C:\Users\ddili\source\Abstraction\ATM_Machine\ATM_Machine\obj\Debug\ATM_Machine.exe
+C:\Users\ddili\source\Abstraction\ATM_Machine\ATM_Machine\obj\Debug\ATM_Machine.pdb
